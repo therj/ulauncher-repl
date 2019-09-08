@@ -16,6 +16,8 @@ LANGUAGES = [
     {'name': 'PHP', 'icon': 'images/langs/php.png', 'key': 'php'},
     {'name': 'Python', 'icon': 'images/langs/python.png', 'key': 'python'},
     {'name': 'Ruby', 'icon': 'images/langs/ruby.png', 'key': 'ruby'},
+    {'name': 'Swift', 'icon': 'images/langs/swift.png', 'key': 'swift'},
+
 ]
 
 
